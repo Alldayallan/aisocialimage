@@ -1,1 +1,1 @@
-MONGODB_URL="mongodb+srv://linuxdevdev:gcO5hlsyJ1BHUNDm@cluster0.rydngcb.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URL="mongodb+srv://linuxdevdev:passwd@cluster0.rydngcb.mongodb.net/?retryWrites=true&w=majority"
